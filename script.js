@@ -2,7 +2,7 @@
 
 const colorBtn1 = document.querySelector('.colorBtn');
 const bodypcg =document.querySelector("body");
-// creating an array to pick a color
+ creating an array to pick a color
 const color =['yellow','red','green','blue','brown','gray'];
 
 
