@@ -1,4 +1,4 @@
-// variables
+variables
 
 const colorBtn1 = document.querySelector('.colorBtn');
 const bodypcg =document.querySelector("body");
