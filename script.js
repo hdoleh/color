@@ -5,7 +5,7 @@ const bodypcg =document.querySelector("body");
  creating an array to pick a color
 const color =['yellow','red','green','blue','brown','gray'];
 
-
+//changes
 
 colorBtn1.addEventListener('click',changeColor);
 
