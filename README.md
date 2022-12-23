@@ -1,2 +1,2 @@
-# color
-hebacolors.netlify.app
+see the link below:
+https://hebacolors.netlify.app/
